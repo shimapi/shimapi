@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shirley Mallea</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi dear you 👋, This is Shirley Mallea</h1>
+<h3 align="center">FrontEnd Developer</h3>
 
 - 🌱 I’m currently interested in **TypeScript with React**
 
-- 💼 I'm working on my **Portfolio**
+- 📕 Now, I'm learning **Next.js**
+
+- 💼 I'm developing my **Portfolio**
 
 - 👯 I’m volunteering and collaborate on **WTM Chile y JavaScript Chile**
 
