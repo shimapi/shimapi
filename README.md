@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear you 👋, This is Shirley Mallea</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently interested in **TypeScript with React**
 
