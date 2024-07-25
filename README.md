@@ -5,7 +5,7 @@
 
 - 📕 Now, I'm learning **Next.js**
 
-- 💼 Now you can see <a href="https://linkedin.com/in/shirleymallea" target="blank"> my **Portfolio** </a>
+- 💼 Now you can see <a href="https://www.shirleymallea.com/" target="blank"> my **Portfolio** </a>
 
 - 👯 I’m volunteering and collaborate on **WTM Chile y JavaScript Chile**
 
