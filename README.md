@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi dear you 👋, This is Shirley Mallea</h1>
 <h3 align="center">Web Developer</h3>
 
@@ -5,7 +6,7 @@
 
 - 📕 Now, I'm learning **Next.js**
 
-- 💼 Now you can see <a href="https://www.shirleymallea.com/" target="blank"> my **Portfolio** </a>
+- 💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank"> my **Portfolio** </a>
 
 - 👯 I’m volunteering and collaborate on **WTM Chile y JavaScript Chile**
 
@@ -15,10 +16,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shirleymallea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleymallea" height="30" width="40" /></a>
-<a href="https://instagram.com/shirleymallea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirleymallea" height="30" width="40" /></a>
-<a href="https://discord.gg/shirleymallea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shirleymallea" height="30" width="40" /></a>
-  <a href="https://twitter.com/shimapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shimapi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shirleymallea" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleymallea" height="30" width="40" /></a>
+<a href="https://instagram.com/shirleymallea" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shirleymallea" height="30" width="40" /></a>
+<a href="https://discord.gg/shirleymallea" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shirleymallea" height="30" width="40" /></a>
+  <a href="https://twitter.com/shimapi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shimapi" height="30" width="40" /></a>
 
 </p>
 
