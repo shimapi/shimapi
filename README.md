@@ -2,9 +2,9 @@
 <h1 align="center">Hi dear you 👋, This is Shirley Mallea</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently interested in **TypeScript with React**
+- 🌱 I’m currently interested in **Shopify Development**
 
-- 📕 Now, I'm learning **Next.js**
+- 📕 Now, I'm going deep in **Hydrogen and Liquid**
 
 - 💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank"> my **Portfolio** </a>
 
