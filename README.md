@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **how can I help you to make your business shine in the internet**
 
-- 📫 How to reach me **shirley.mallea.dev [at] gmail.com**
+- 📫 How to reach me? **shirley.mallea.dev [at] gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
