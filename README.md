@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi dear you 👋, This is Shirley Mallea</h1>
-<h3 align="center">Web Developer</h3>
+<h1>Hi dear being 👋, This is Shirley Mallea</h1>
+<h3>Web Developer</h3>
 
-<p>
-  - 🌱 I’m currently interested in **Shopify Development**
+<ul>
+  <li>🌱 I'm currently interested in <strong>Shopify Development</strong></li>
   
-  - 📕 Now, I'm going deep in **Hydrogen and Liquid**
+  <li>📕 Now, I'm going deep in <strong>Hydrogen and Liquid</strong></li>
   
-  - 💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank"> my **Portfolio** </a>
+  <li>💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank">my <strong>Portfolio</strong></a></li>
   
-  - 👯 I’m volunteering and collaborate on **WTM Chile y JavaScript Chile**
+  <li>👯 I'm volunteering and collaborate on <strong>WTM Chile y JavaScript Chile</strong></li>
   
-  - 💬 Ask me about **how can I help you to make your business shine in the internet**
+  <li>💬 Ask me about <strong>how can I help you to make your business shine in the internet</strong></li>
   
-  - 📫 How to reach me? **shirley.mallea.dev [at] gmail.com**
-</p>
+  <li>📫 How to reach me? <strong>shirley.mallea.dev [at] gmail.com</strong></li>
+</ul>
 
 <h3>Contact me</h3>
 
