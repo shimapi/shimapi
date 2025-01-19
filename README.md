@@ -1,18 +1,13 @@
 
-<h1>Hi dear being 👋, This is Shirley Mallea</h1>
-<h3>Web Developer</h3>
+<h1>Hello World! 🌎 I'm Shirley Mallea</h1>
+<h3>Web Developer & Shopify lover</h3>
 
 <ul>
   <li>🌱 I'm currently interested in <strong>Shopify Development</strong></li>
-  
   <li>📕 Now, I'm going deep in <strong>Hydrogen and Liquid</strong></li>
-  
   <li>💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank">my <strong>Portfolio</strong></a></li>
-  
   <li>👯 I'm volunteering and collaborate on <strong>WTM Chile y JavaScript Chile</strong></li>
-  
   <li>💬 Ask me about <strong>how can I help you to make your business shine in the internet</strong></li>
-  
   <li>📫 How to reach me? <strong>shirley.mallea.dev [at] gmail.com</strong></li>
 </ul>
 
