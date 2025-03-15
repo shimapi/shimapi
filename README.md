@@ -1,5 +1,5 @@
 
-<h1>Hello World! 🌎 I'm Shirley Mallea</h1>
+<h1>Hello World! 🌎 This is Shirley Mallea</h1>
 <h3>Web Developer & Shopify lover</h3>
 
 <p>🌱 I'm currently interested in <strong>Shopify Development</strong></p>
