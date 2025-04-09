@@ -4,7 +4,7 @@
 
 <p>🌱 I'm currently interested in <strong>Shopify Development</strong></p>
 
-<p>📕 Now, I'm going deep in <strong>Hydrogen and Liquid</strong></p>
+<p>📕 Now, I'm going deep into <strong>Liquid</strong></p>
 
 <p>💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank">my <strong>Portfolio</strong></a></p>
 
