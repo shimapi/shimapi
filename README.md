@@ -6,7 +6,7 @@
 
 <p>📕 Now, I'm going deep into <strong>Liquid</strong></p>
 
-<p>💼 Now you can see <a href="https://www.shirleymallea.com/" target="_blank">my <strong>Portfolio</strong></a></p>
+<p>💼 Here you can see <a href="https://www.shirleymallea.com/" target="_blank">my <strong>Portfolio</strong></a></p>
 
 <p>👯 I'm volunteering and collaborate on <strong>WTM Chile y JavaScript Chile</strong></p>
 
